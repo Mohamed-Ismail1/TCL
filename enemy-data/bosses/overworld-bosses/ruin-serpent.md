@@ -52,3 +52,4 @@ Glowing segments during the Bomb Barrage and Shockwave attacks.
 * Paralyzed:
     * During Bomb Barrage and Shockwave, the Ruin Serpent will expose 4 weak points in the form of its glowing segments. A segment will be broken once hit, indicated by smoke and electric spark effects.
     * During Bomb Barrage or Shockwave, destroying all Oozing Concretion sources that the Ruin Serpent is attempting to absorb or destroying all of its segments will temporarily paralyze it. Any broken segments will be repaired once the Ruin Serpent recovers from a paralyzed state.
+    
